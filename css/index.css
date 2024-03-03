@@ -366,6 +366,7 @@
     font-weight: 600;
     font-family: Lato_Semibold;
     line-height: 21px;
+    white-space: nowrap;
 }
 
 .percent-input {
